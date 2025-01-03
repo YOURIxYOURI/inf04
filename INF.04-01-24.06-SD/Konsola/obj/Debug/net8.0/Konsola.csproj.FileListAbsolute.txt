@@ -1,0 +1,14 @@
+D:\inf04\INF.04-01-24.06-SD\Konsola\bin\Debug\net8.0\Konsola.exe
+D:\inf04\INF.04-01-24.06-SD\Konsola\bin\Debug\net8.0\Konsola.deps.json
+D:\inf04\INF.04-01-24.06-SD\Konsola\bin\Debug\net8.0\Konsola.runtimeconfig.json
+D:\inf04\INF.04-01-24.06-SD\Konsola\bin\Debug\net8.0\Konsola.dll
+D:\inf04\INF.04-01-24.06-SD\Konsola\bin\Debug\net8.0\Konsola.pdb
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.AssemblyInfoInputs.cache
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.AssemblyInfo.cs
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.csproj.CoreCompileInputs.cache
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.dll
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\refint\Konsola.dll
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.pdb
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.genruntimeconfig.cache
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\ref\Konsola.dll

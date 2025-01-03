@@ -1,0 +1,14 @@
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\bin\Debug\net8.0\Konsolowa.exe
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\bin\Debug\net8.0\Konsolowa.deps.json
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\bin\Debug\net8.0\Konsolowa.runtimeconfig.json
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\bin\Debug\net8.0\Konsolowa.dll
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\bin\Debug\net8.0\Konsolowa.pdb
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.AssemblyInfoInputs.cache
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.AssemblyInfo.cs
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.csproj.CoreCompileInputs.cache
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.dll
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\refint\Konsolowa.dll
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.pdb
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\Konsolowa.genruntimeconfig.cache
+D:\inf04\INF.04-02-22.06-SG\Konsolowa\obj\Debug\net8.0\ref\Konsolowa.dll

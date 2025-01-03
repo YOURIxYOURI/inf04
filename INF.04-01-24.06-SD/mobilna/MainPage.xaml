@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mobilna.MainPage">
+
+    <StackLayout>
+        <Label Text="WIzyta u weterynarza"></Label>
+        <Entry Placeholder="Imie i nazwisko właściciela"></Entry>
+        <Label Text="Gatunek"></Label>
+        <ListView x:Name="petsList">
+            
+        </ListView>
+        <Label Text="Ile ma lat? 0"></Label>
+    </StackLayout>
+
+</ContentPage>

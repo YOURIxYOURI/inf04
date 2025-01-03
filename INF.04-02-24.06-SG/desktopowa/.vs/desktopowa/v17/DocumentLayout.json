@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\obraz2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:obraz2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\desktopowa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:desktopowa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|d:\\inf04\\inf.04-02-24.06-sg\\desktopowa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3BC1038F-9A86-47AE-A625-5D229DFAAFA7}|desktopowa.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.cs",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\data.cs",
+              "RelativeDocumentMoniker": "data.cs",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\data.cs",
+              "RelativeToolTip": "data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T23:25:21.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "obraz2.png - PNG [96x70, 32-bitowy, PNG]",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\obraz2.png",
+              "RelativeDocumentMoniker": "obraz2.png",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\obraz2.png - PNG [96x70, 32-bitowy, PNG]",
+              "RelativeToolTip": "obraz2.png - PNG [96x70, 32-bitowy, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-02T23:24:45.77Z",
+              "EditorCaption": " - PNG [96x70, 32-bitowy, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T23:14:09.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "desktopowa",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\desktopowa.csproj",
+              "RelativeDocumentMoniker": "desktopowa.csproj",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\desktopowa.csproj",
+              "RelativeToolTip": "desktopowa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T23:13:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T23:10:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\inf04\\INF.04-02-24.06-SG\\desktopowa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T23:10:09.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

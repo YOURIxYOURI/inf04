@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobilna.MainPage">
+
+    <Shell.BackgroundColor> teal</Shell.BackgroundColor>
+    
+    <StackLayout Background="White">
+        <Label Text="Podaj Email" TextColor="Black"></Label>
+        <Entry x:Name="emailEntry" TextColor="Black"></Entry>
+        <Label Text="Podaj hasło" TextColor="Black"></Label>
+        <Entry x:Name="passwordEntry" IsPassword="True" TextColor="Black"></Entry>
+        <Label Text="Powtórz hasło" TextColor="Black"></Label>
+        <Entry x:Name="confirmEntry" IsPassword="True" TextColor="Black"></Entry>
+        <StackLayout HorizontalOptions="Center" >
+            <Button Text="zatwierdź" Clicked="Button_Clicked" TextColor="Black" BackgroundColor="LightGrey"></Button>
+        </StackLayout>
+        <StackLayout HorizontalOptions="Center">
+            <Label x:Name="infoOutput" TextColor="Black" Text="Autor 00000000000"></Label>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

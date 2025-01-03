@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobilna.MainPage">
+
+    <StackLayout Margin="20, 20, 20, 20">
+        <Label Text="Właściwości czcionki" FontSize="Large" FontAttributes="Bold" BackgroundColor="#558B2F" TextColor="White" HorizontalOptions="StartAndExpand"></Label>
+        <Label x:Name="sizeLabel" Text="Rozmiar: " HorizontalOptions="StartAndExpand" FontSize="Medium"></Label>
+        <Slider Minimum="0" Maximum="40" HorizontalOptions="FillAndExpand" ValueChanged="Slider_change" ></Slider>
+        <Label x:Name="welcomeLabel" Text="" HorizontalOptions="StartAndExpand"></Label>
+        <Button x:Name="button" Text=">>"  BackgroundColor="#558B2F" TextColor="White" FontAttributes="Bold" HorizontalOptions="Center" Clicked="button_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>
