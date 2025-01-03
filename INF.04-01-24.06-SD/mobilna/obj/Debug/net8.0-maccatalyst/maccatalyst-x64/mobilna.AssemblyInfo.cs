@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mobilna")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+66779cb0020430e57750bb83f47739c9dee5e40e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mobilna")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mobilna")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
