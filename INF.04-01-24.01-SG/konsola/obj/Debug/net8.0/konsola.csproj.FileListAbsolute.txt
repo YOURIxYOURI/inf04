@@ -1,0 +1,15 @@
+D:\inf04\INF.04-01-24.01-SG\konsola\bin\Debug\net8.0\konsola.exe
+D:\inf04\INF.04-01-24.01-SG\konsola\bin\Debug\net8.0\konsola.deps.json
+D:\inf04\INF.04-01-24.01-SG\konsola\bin\Debug\net8.0\konsola.runtimeconfig.json
+D:\inf04\INF.04-01-24.01-SG\konsola\bin\Debug\net8.0\konsola.dll
+D:\inf04\INF.04-01-24.01-SG\konsola\bin\Debug\net8.0\konsola.pdb
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.AssemblyInfoInputs.cache
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.AssemblyInfo.cs
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.csproj.CoreCompileInputs.cache
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.sourcelink.json
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.dll
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\refint\konsola.dll
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.pdb
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\konsola.genruntimeconfig.cache
+D:\inf04\INF.04-01-24.01-SG\konsola\obj\Debug\net8.0\ref\konsola.dll
