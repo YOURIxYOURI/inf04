@@ -8,7 +8,13 @@
         <Entry Placeholder="Imie i nazwisko właściciela" x:Name="ownerEntry" TextColor="Black"></Entry>
         <Label Text="Gatunek" TextColor="Black"></Label>
         <ListView x:Name="petsList" ItemSelected="petsList_ItemSelected"  VerticalOptions="Start">
-            
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Label Text="{Binding}" TextColor="black"/>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
         </ListView>
         <HorizontalStackLayout HorizontalOptions="StartAndExpand">
             <Label x:Name="ageLabel" Text="Ile ma lat? 0" TextColor="Black"></Label>

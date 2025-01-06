@@ -1,11 +1,14 @@
-﻿namespace mobilna
+﻿using System.Collections.ObjectModel;
+
+namespace mobilna
 {
     public partial class MainPage : ContentPage
     {
-        List<string> list = new List<string> { "Pies", "Kot", "Świnka morska" };
+        ObservableCollection<string> list = new ObservableCollection<string> { "Pies", "Kot", "Świnka morska" };
         public MainPage()
         {
             InitializeComponent();
+            BindingContext = this;
             petsList.ItemsSource = list;
         }
 

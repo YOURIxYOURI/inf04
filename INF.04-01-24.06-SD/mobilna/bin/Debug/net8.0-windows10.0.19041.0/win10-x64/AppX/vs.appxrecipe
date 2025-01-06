@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\inf04\INF.04-01-24.06-SD\mobilna\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-01-03T12:05:35.505</Modified>
+      <Modified>2025-01-06T11:09:19.042</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\INF.04-01-24.06-SD\mobilna\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\mobilna.dll">
       <PackagePath>mobilna.dll</PackagePath>
-      <Modified>2025-01-03T12:05:35.193</Modified>
+      <Modified>2025-01-06T11:09:18.759</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\INF.04-01-24.06-SD\mobilna\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>mobilna.exe</PackagePath>
-      <Modified>2025-01-03T12:05:35.196</Modified>
+      <Modified>2025-01-06T11:09:18.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\INF.04-01-24.06-SD\mobilna\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
