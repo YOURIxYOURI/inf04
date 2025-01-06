@@ -3,8 +3,7 @@ namespace maui_routing;
 [QueryProperty(nameof(_pm), "name")]
 public partial class NewPage1 : ContentPage
 {
-    string pm;
-    public string _pm { set { pm = value; OnPropertyChanged(); label.Text = value; } }
+    public string _pm { set { label.Text = value; } }
     public NewPage1()
     {
         InitializeComponent();

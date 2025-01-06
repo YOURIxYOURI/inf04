@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7A03403-9A22-4337-8C78-C52D9F174063}|mobilna.csproj|d:\\inf04\\inf.04-01-24.06-sd\\mobilna\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 149,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T11:02:11.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T11:02:11.1Z"
             },
             {
               "$type": "Document",
@@ -59,20 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T11:21:45.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -80,11 +79,12 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T11:21:35.035Z"
+              "WhenOpened": "2025-01-03T11:21:35.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.06-SD\\mobilna\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",

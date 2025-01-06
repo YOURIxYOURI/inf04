@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\inf04\maui-routing\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-01-06T10:56:22.267</Modified>
+      <Modified>2025-01-06T11:13:40.116</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\maui-routing\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\maui-routing.dll">
       <PackagePath>maui-routing.dll</PackagePath>
-      <Modified>2025-01-06T10:56:21.945</Modified>
+      <Modified>2025-01-06T11:13:39.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\maui-routing\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>maui-routing.exe</PackagePath>
-      <Modified>2025-01-06T10:56:21.950</Modified>
+      <Modified>2025-01-06T11:13:39.835</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\maui-routing\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
