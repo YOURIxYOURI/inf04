@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14FB101B-CCD6-44E7-B1A5-822820B1A5C0}|Desktop.csproj|d:\\inf04\\inf.04-01-24.01-sg\\desktop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,7 +50,70 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "UserControl2.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl2.xaml.cs",
+              "RelativeDocumentMoniker": "UserControl2.xaml.cs",
+              "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl2.xaml.cs",
+              "RelativeToolTip": "UserControl2.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:32:08.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl2.xaml",
+              "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl2.xaml",
+              "RelativeDocumentMoniker": "UserControl2.xaml",
+              "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl2.xaml",
+              "RelativeToolTip": "UserControl2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T09:29:40.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "UserControl1.xaml.cs",
+              "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl1.xaml.cs",
+              "RelativeToolTip": "UserControl1.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:25:23.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.xaml",
+              "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl1.xaml",
+              "RelativeDocumentMoniker": "UserControl1.xaml",
+              "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\UserControl1.xaml",
+              "RelativeToolTip": "UserControl1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T09:25:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:20:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -42,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AssemblyInfo.cs",
@@ -55,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -67,13 +150,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBMAAAANAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T16:55:49.325Z",
               "EditorCaption": ""

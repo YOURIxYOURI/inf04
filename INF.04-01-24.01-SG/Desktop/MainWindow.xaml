@@ -8,26 +8,7 @@
         Title="Wprowadzanie danych do paszportu. WYkonał: 00000000000" Height="350" Width="800"
         Background="CadetBlue">
     <Grid>
-        <Label Content="Numer" HorizontalAlignment="Left" Margin="43,39,0,0" VerticalAlignment="Top" Width="77"/>
-        <Label Content="Imię" HorizontalAlignment="Left" Margin="43,70,0,0" VerticalAlignment="Top" Width="77"/>
-        <Label Content="Nazwisko" HorizontalAlignment="Left" Margin="43,101,0,0" VerticalAlignment="Top" Width="77"/>
-        <TextBox Background="Azure" x:Name="numberEntry"  HorizontalAlignment="Left" Margin="111,43,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="196" LostFocus="numberEntry_LostFocus"/>
-        <TextBox Background="Azure" x:Name="firstNameEntry" HorizontalAlignment="Left" Margin="111,74,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="196"/>
-        <TextBox Background="Azure" x:Name="lastNameEntry" HorizontalAlignment="Left" Margin="111,105,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="196"/>
-        <GroupBox Header="Kolor Oczu" Margin="31,0,0,41" HorizontalAlignment="Left" Width="334" Height="140" VerticalAlignment="Bottom">
-            <Grid HorizontalAlignment="Left" Width="322">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="145*"/>
-                    <ColumnDefinition Width="178*"/>
-                </Grid.ColumnDefinitions>
-                <RadioButton IsChecked="True" x:Name="blueCheckbox" Content="Niebieskie" GroupName="eyesColor" Margin="10,10,3,91" Height="16"/>
-                <RadioButton x:Name="greenCheckbox" Content="Zielone" GroupName="eyesColor" Margin="10,38,3,63" Height="16"/>
-                <RadioButton x:Name="beerCheckbox" Content="Piwne" GroupName="eyesColor" Margin="10,67,3,34" Height="16"/>
-            </Grid>
-        </GroupBox>
-        <Image HorizontalAlignment="Left" x:Name="personImage" Height="186" Margin="414,43,0,0" VerticalAlignment="Top" Width="157" Source="/000-zdjecie.jpg"/>
-        <Image HorizontalAlignment="Left" x:Name="printImage" Height="180" Margin="614,43,0,0" VerticalAlignment="Top" Width="144" Source="/000-odcisk.jpg"/>
-        <Button Background="Azure" Content="OK" HorizontalAlignment="Left" Margin="498,253,0,0" VerticalAlignment="Top" Width="176" Height="36" Click="Button_Click"/>
-
+        <ContentControl x:Name="contentControl" ></ContentControl>
+       
     </Grid>
 </Window>

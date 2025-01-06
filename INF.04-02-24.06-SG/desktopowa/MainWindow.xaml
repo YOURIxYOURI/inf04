@@ -25,6 +25,6 @@
         <Label x:Name="yearLabel"  Content="Label" Margin="0,0,290,111" Foreground="#61D918" FontSize="20" HorizontalAlignment="Right" Width="105" Height="37" VerticalAlignment="Bottom"/>
         <Label x:Name="downloadLabel" Content="Label" Margin="0,0,595,46" Foreground="#61D918" FontSize="20" HorizontalAlignment="Right" Width="105" Height="37" VerticalAlignment="Bottom"/>
         <Button Content="Pobierz" Margin="0,0,483,46" RenderTransformOrigin="-0.013,0.217" Background="#61D918" FontSize="20" FontWeight="Bold" Height="37" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="92" Click="downloadButton_Click"/>
-
+        
     </Grid>
 </Window>

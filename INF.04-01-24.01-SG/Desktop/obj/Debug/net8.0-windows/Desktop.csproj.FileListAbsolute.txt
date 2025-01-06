@@ -19,3 +19,7 @@ D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\refint\Desktop.dll
 D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\Desktop.pdb
 D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\Desktop.genruntimeconfig.cache
 D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\ref\Desktop.dll
+D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\UserControl1.g.cs
+D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\UserControl2.g.cs
+D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\UserControl1.baml
+D:\inf04\INF.04-01-24.01-SG\Desktop\obj\Debug\net8.0-windows\UserControl2.baml
