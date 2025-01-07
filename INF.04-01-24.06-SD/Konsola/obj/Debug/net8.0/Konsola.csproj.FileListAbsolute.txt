@@ -12,3 +12,4 @@ D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\refint\Konsola.dll
 D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.pdb
 D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.genruntimeconfig.cache
 D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\ref\Konsola.dll
+D:\inf04\INF.04-01-24.06-SD\Konsola\obj\Debug\net8.0\Konsola.sourcelink.json

@@ -17,7 +17,7 @@ Console.WriteLine($"Tekst po usunieciu duplikatów wygląda nasetepująco:\n{Str
  *************************************************************************************************
  */
 
-internal class StringTools
+public class StringTools
 {
     public static int countVowel(string toCheck)
     {

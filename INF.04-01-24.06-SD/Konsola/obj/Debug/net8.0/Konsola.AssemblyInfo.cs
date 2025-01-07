@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Konsola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac6abb1914f4e51dbded36aede4e37af640ff1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Konsola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Konsola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
