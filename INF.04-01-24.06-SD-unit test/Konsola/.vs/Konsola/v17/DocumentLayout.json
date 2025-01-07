@@ -25,15 +25,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TestProject1",
+              "Title": "TestProject1.csproj",
               "DocumentMoniker": "D:\\inf04\\INF.04-01-24.06-SD\\TestProject1\\TestProject1.csproj",
               "RelativeDocumentMoniker": "..\\TestProject1\\TestProject1.csproj",
               "ToolTip": "D:\\inf04\\INF.04-01-24.06-SD\\TestProject1\\TestProject1.csproj",
               "RelativeToolTip": "..\\TestProject1\\TestProject1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-07T17:34:13.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T17:34:13.825Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T10:59:34.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:59:34.948Z"
             }
           ]
         }
