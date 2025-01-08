@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16DF28A9-43B8-4AC2-8C1B-ACC4BF149CF4}|maui-routing.csproj|d:\\inf04\\maui-routing\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -50,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\inf04\\maui-routing\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppShell.xaml.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\inf04\\maui-routing\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -82,7 +82,8 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:27:21.461Z"
+              "WhenOpened": "2025-01-06T10:27:21.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +93,7 @@
               "RelativeDocumentMoniker": "NewPage1.xaml.cs",
               "ToolTip": "D:\\inf04\\maui-routing\\NewPage1.xaml.cs",
               "RelativeToolTip": "NewPage1.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T10:26:26.997Z",
               "EditorCaption": ""
@@ -111,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "D:\\inf04\\maui-routing\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -119,7 +120,8 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T10:24:58.631Z"
+              "WhenOpened": "2025-01-06T10:24:58.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -131,7 +133,8 @@
               "RelativeToolTip": "NewPage1.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T10:24:48.432Z"
+              "WhenOpened": "2025-01-06T10:24:48.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\inf04\\maui-routing\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",

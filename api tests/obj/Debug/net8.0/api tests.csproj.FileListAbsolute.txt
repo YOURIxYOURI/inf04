@@ -1,0 +1,33 @@
+D:\inf04\api tests\bin\Debug\net8.0\appsettings.Development.json
+D:\inf04\api tests\bin\Debug\net8.0\appsettings.json
+D:\inf04\api tests\bin\Debug\net8.0\api tests.exe
+D:\inf04\api tests\bin\Debug\net8.0\api tests.deps.json
+D:\inf04\api tests\bin\Debug\net8.0\api tests.runtimeconfig.json
+D:\inf04\api tests\bin\Debug\net8.0\api tests.dll
+D:\inf04\api tests\bin\Debug\net8.0\api tests.pdb
+D:\inf04\api tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\inf04\api tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\inf04\api tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\inf04\api tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\inf04\api tests\obj\Debug\net8.0\api tests.csproj.AssemblyReference.cache
+D:\inf04\api tests\obj\Debug\net8.0\api tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\api tests\obj\Debug\net8.0\api tests.AssemblyInfoInputs.cache
+D:\inf04\api tests\obj\Debug\net8.0\api tests.AssemblyInfo.cs
+D:\inf04\api tests\obj\Debug\net8.0\api tests.csproj.CoreCompileInputs.cache
+D:\inf04\api tests\obj\Debug\net8.0\api tests.MvcApplicationPartsAssemblyInfo.cs
+D:\inf04\api tests\obj\Debug\net8.0\api tests.MvcApplicationPartsAssemblyInfo.cache
+D:\inf04\api tests\obj\Debug\net8.0\api tests.sourcelink.json
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets.build.json
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets.development.json
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets\msbuild.api tests.Microsoft.AspNetCore.StaticWebAssets.props
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets\msbuild.build.api tests.props
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api tests.props
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api tests.props
+D:\inf04\api tests\obj\Debug\net8.0\staticwebassets.pack.json
+D:\inf04\api tests\obj\Debug\net8.0\scopedcss\bundle\api tests.styles.css
+D:\inf04\api tests\obj\Debug\net8.0\api tests.csproj.Up2Date
+D:\inf04\api tests\obj\Debug\net8.0\api tests.dll
+D:\inf04\api tests\obj\Debug\net8.0\refint\api tests.dll
+D:\inf04\api tests\obj\Debug\net8.0\api tests.pdb
+D:\inf04\api tests\obj\Debug\net8.0\api tests.genruntimeconfig.cache
+D:\inf04\api tests\obj\Debug\net8.0\ref\api tests.dll
