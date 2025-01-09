@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="wpf_all.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:wpf_all"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="LightBlue">
+        <GroupBox Header="Formularz" Margin="10,10,0,0" HorizontalAlignment="Left" Width="303" Height="191" VerticalAlignment="Top">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="20*"/>
+                    <ColumnDefinition Width="69*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Name" Margin="11,3,175,139" Grid.ColumnSpan="2" Grid.Column="1"/>
+                <TextBox Margin="52,7,18,143" TextWrapping="Wrap" x:Name="nameEntry" Text="" Grid.Column="2"/>
+                <RadioButton Content="Male" IsChecked="True" x:Name="maleRadio" GroupName="sexRadioGroup" Margin="17,43,180,110" Grid.ColumnSpan="2" Grid.Column="1"/>
+                <RadioButton Content="Female" GroupName="sexRadioGroup" x:Name="femaleRadio" Margin="67,43,66,110" Grid.Column="2"/>
+                <ComboBox Margin="50,72,50,74" Grid.Column="2" x:Name="jobComboBox"/>
+                <Label Content="Choose Job" Margin="11,70,175,72" Grid.ColumnSpan="2" Grid.Column="1"/>
+                <DatePicker Margin="50,108,50,36" Grid.Column="2" x:Name="datePicker"/>
+                <Label Content="Join Date" Margin="11,107,175,35" Grid.ColumnSpan="2" Grid.Column="1"/>
+                <Label Content="Age: 0" x:Name="ageLabel" Margin="11,138,175,4" Grid.ColumnSpan="2" Grid.Column="1"/>
+                <Slider Grid.Column="2" Margin="18,142,18,8" Minimum="0" Maximum="99" ValueChanged="Slider_ValueChanged" x:Name="ageSlider"/>
+            </Grid>
+        </GroupBox>
+        <Image Margin="50,228,444,30" Source="/dotnet_bot.png" x:Name="imageToChange"/>
+        <Button Content="" Margin="400,225,52,31" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/obraz.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button Content="Details" Margin="390,73,0,0" Click="GoToDetails" Height="20" VerticalAlignment="Top" HorizontalAlignment="Left" Width="252"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>wpf_all</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="dotnet_bot.png" />
+    <None Remove="obraz.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dotnet_bot.png" />
+    <Resource Include="obraz.jpg" />
+  </ItemGroup>
+
+</Project>

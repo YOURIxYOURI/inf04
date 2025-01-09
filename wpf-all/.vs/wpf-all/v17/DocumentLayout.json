@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\inf04\\wpf-all\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:dotnet_bot.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|d:\\inf04\\wpf-all\\obraz.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9CA48B1E-C25B-4E09-B9F5-378E00B9F581}|wpf-all.csproj|solutionrelative:obraz.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "obraz.jpg - Bitmap [400x213, 24 bity, JPG]",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\obraz.jpg",
+              "RelativeDocumentMoniker": "obraz.jpg",
+              "ToolTip": "D:\\inf04\\wpf-all\\obraz.jpg - Bitmap [400x213, 24 bity, JPG]",
+              "RelativeToolTip": "obraz.jpg - Bitmap [400x213, 24 bity, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-09T17:26:07.042Z",
+              "EditorCaption": " - Bitmap [400x213, 24 bity, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dotnet_bot.png - PNG [1200x738, 32-bitowy, PNG]",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\dotnet_bot.png",
+              "RelativeDocumentMoniker": "dotnet_bot.png",
+              "ToolTip": "D:\\inf04\\wpf-all\\dotnet_bot.png - PNG [1200x738, 32-bitowy, PNG]",
+              "RelativeToolTip": "dotnet_bot.png - PNG [1200x738, 32-bitowy, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-09T17:03:15.024Z",
+              "EditorCaption": " - PNG [1200x738, 32-bitowy, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "DetailsPage.xaml.cs",
+              "ToolTip": "D:\\inf04\\wpf-all\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:50:21.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\Employe.cs",
+              "RelativeDocumentMoniker": "Employe.cs",
+              "ToolTip": "D:\\inf04\\wpf-all\\Employe.cs",
+              "RelativeToolTip": "Employe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:53:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\inf04\\wpf-all\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:48:58.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "DetailsPage.xaml",
+              "ToolTip": "D:\\inf04\\wpf-all\\DetailsPage.xaml",
+              "RelativeToolTip": "DetailsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T16:48:53.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\inf04\\wpf-all\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T16:48:41.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\inf04\\wpf-all\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T16:24:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\wpf-all\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\inf04\\wpf-all\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:24:14.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
