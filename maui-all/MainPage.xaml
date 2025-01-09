@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="maui_all.MainPage"
-             >
+             x:Class="maui_all.MainPage">
 
-    
+
     <StackLayout BackgroundColor="DarkGrey" >
         <Grid>
             <Grid.RowDefinitions>
@@ -15,8 +14,8 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            
-            <StackLayout Grid.Column="0">
+
+            <StackLayout Grid.Column="0" Grid.Row="0">
                 <Entry x:Name="nameEntry" Placeholder="Wpisz imie" ></Entry>
                 <RadioButton GroupName="sexRadio" Value="M" x:Name="RadioM" Content="Mężczyzna"></RadioButton>
                 <RadioButton GroupName="sexRadio" Value="K" x:Name="RadioK" Content="Kobieta"></RadioButton>
@@ -34,7 +33,7 @@
                 </HorizontalStackLayout>
                 <Button Text="Prześlij" Clicked="Submit_Clicked"></Button>
             </StackLayout>
-            <StackLayout Grid.Column="1">
+            <StackLayout Grid.Column="1" Grid.Row="0">
                 <ListView x:Name="employesList" >
                     <ListView.ItemTemplate>
                         <DataTemplate>
@@ -44,8 +43,24 @@
                 </ListView>
                 <Button Text="Sprawdź wybrane" Clicked="Details_Clicked"></Button>
             </StackLayout>
+            <StackLayout Grid.Column="0" Grid.Row="1">
+                <ImageButton Source="dotnet_bot.png" Clicked="ImageButton_Clicked" HeightRequest="300" CommandParameter="bot"></ImageButton>
+            </StackLayout>
+            <ScrollView Grid.Column="1" Grid.Row="1">
+                <StackLayout>
+                    <ListView x:Name="imageList">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <ImageButton Source="{Binding}" Clicked="ImageButton_Clicked" HeightRequest="100" CommandParameter="listBot"></ImageButton>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+            </ScrollView>
         </Grid>
-        
+
     </StackLayout>
 
 </ContentPage>
