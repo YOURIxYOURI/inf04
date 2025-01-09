@@ -214,6 +214,9 @@
     <AppxPackagedFile Include="D:\inf04\maui-all\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\inf04\maui-all\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\obraz.scale-100.jpg">
+      <PackagePath>obraz.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\inf04\maui-all\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\maui-all.deps.json">
       <PackagePath>maui-all.deps.json</PackagePath>
     </AppxPackagedFile>

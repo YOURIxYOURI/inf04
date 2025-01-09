@@ -53,7 +53,11 @@ namespace maui_all
             if (_sender.CommandParameter.ToString() == "bot")
                 DisplayAlert("image info", "to jest mastkotka microsoftu", "OK");
             else if (_sender.CommandParameter.ToString() == "listBot")
+            {
                 DisplayAlert("image info", "to jest mastkotka microsoftu ale z listy", "OK");
+                _sender.Source = "obraz.jpg";
+            }
+
         }
 
 
