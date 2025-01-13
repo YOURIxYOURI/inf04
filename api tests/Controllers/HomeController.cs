@@ -6,13 +6,23 @@ namespace api_tests.Controllers
     [Route("[controller]")]
     public class HomeController : Controller
     {
+        AppDbContext _context;
 
         private List<string> _list = new List<string> { "data 1", "data 2", "data 3", "data 4" };
-        public HomeController()
+        public HomeController(AppDbContext context)
         {
-
+            this._context = context;
         }
 
+        //with database get all
+        [HttpGet]
+        public List<data> GetAllDataDB(int index)
+        {
+            return _context.datas.ToList();
+        }
+
+
+        //without database
         [HttpGet("/{index}")]
         public string getData(int index)
         {

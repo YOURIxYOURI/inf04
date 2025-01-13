@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\inf04\\Maui-Gallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|d:\\inf04\\maui-gallery\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|d:\\inf04\\maui-gallery\\resources\\images\\obraz1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|solutionrelative:resources\\images\\obraz1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|d:\\inf04\\maui-gallery\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|d:\\inf04\\maui-gallery\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0F74CA-D8F7-4307-94B8-08881B40B4FB}|Maui-Gallery.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "obraz1.png - PNG [400x213, 32-bitowy, PNG]",
+              "DocumentMoniker": "D:\\inf04\\Maui-Gallery\\Resources\\Images\\obraz1.png",
+              "RelativeDocumentMoniker": "Resources\\Images\\obraz1.png",
+              "ToolTip": "D:\\inf04\\Maui-Gallery\\Resources\\Images\\obraz1.png - PNG [400x213, 32-bitowy, PNG]",
+              "RelativeToolTip": "Resources\\Images\\obraz1.png - PNG [400x213, 32-bitowy, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-01-12T18:16:38.052Z",
+              "EditorCaption": " - PNG [400x213, 32-bitowy, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\inf04\\Maui-Gallery\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\inf04\\Maui-Gallery\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:01:33.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\inf04\\Maui-Gallery\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "D:\\inf04\\Maui-Gallery\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T18:01:13.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\inf04\\Maui-Gallery\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "D:\\inf04\\Maui-Gallery\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T17:35:30.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

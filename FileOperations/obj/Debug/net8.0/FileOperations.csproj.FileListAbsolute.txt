@@ -1,0 +1,15 @@
+D:\inf04\FileOperations\bin\Debug\net8.0\FileOperations.exe
+D:\inf04\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+D:\inf04\FileOperations\bin\Debug\net8.0\FileOperations.runtimeconfig.json
+D:\inf04\FileOperations\bin\Debug\net8.0\FileOperations.dll
+D:\inf04\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.sourcelink.json
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.dll
+D:\inf04\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+D:\inf04\FileOperations\obj\Debug\net8.0\FileOperations.genruntimeconfig.cache
+D:\inf04\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll

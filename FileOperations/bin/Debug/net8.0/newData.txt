@@ -1,0 +1,4 @@
+nazwa2;wiek2;data2;8
+nazwa3;wiek3;data3;2
+nazwa5;wiek5;data5;2
+nazwa6;wiek6;data6;4

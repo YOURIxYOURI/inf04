@@ -2,11 +2,17 @@
 
 namespace api_tests
 {
+
+    /// <summary>
+    /// migracja bazy w konsoli nuget add-mig poczym update-database
+    /// </summary>
     public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options, IConfiguration configuration)
         : base(options) { _configuration = configuration; }
         public IConfiguration _configuration { get; }
+
+        public DbSet<data> datas { get; set; }
 
         public void ConfigureServices(IServiceCollection services)
         {
