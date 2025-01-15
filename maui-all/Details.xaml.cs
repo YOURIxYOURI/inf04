@@ -4,11 +4,11 @@ namespace maui_all;
 [QueryProperty(nameof(Data), "data")]
 public partial class Details : ContentPage
 {
-    public string Data { get { return Data; } set { Data = value; } } // nie dzia³a chuj wie dlaczego (jest identyczne do dzia³aj¹cego  zinnego rozwi¹zania)
+    string data;
+    public string Data { get => data; set { data = value; nameLabel.Text = value; OnPropertyChanged(); } }
     public Details()
     {
         InitializeComponent();
-        nameLabel.Text = Data;
     }
 
     async private void Button_Clicked(object sender, EventArgs e)

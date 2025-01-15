@@ -18,4 +18,4 @@ D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\refint\desktopow
 D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\desktopowa.pdb
 D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\desktopowa.genruntimeconfig.cache
 D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\ref\desktopowa.dll
-D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\UserControl1.g.cs
+D:\inf04\INF.04-02-24.06-SG\desktopowa\obj\Debug\net8.0-windows\desktopowa.sourcelink.json

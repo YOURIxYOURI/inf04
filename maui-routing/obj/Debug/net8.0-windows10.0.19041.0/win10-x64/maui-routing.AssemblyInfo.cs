@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maui-routing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+159b46a1640046c16aa2bc71e786a3068b6f988c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ed15af1c932252c31e9356e1278f08551d92ab3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("maui-routing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maui-routing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

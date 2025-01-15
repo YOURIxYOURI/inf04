@@ -9,5 +9,23 @@
         <Label x:Name="additionalInfoLabel"></Label>
 
         <Button Text="Wróć" Clicked="Button_Clicked"></Button>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Image Source="dotnet_bot.png" Grid.Row="0" Grid.Column="0" HeightRequest="250"> </Image>
+            <Image Source="obraz.jpg" Grid.Row="0" Grid.Column="1" HeightRequest="250"></Image>
+            <Image Source="dotnet_bot.png" Grid.Row="0" Grid.Column="2" HeightRequest="250"></Image>
+            <Image Source="obraz.jpg" Grid.Row="1" Grid.Column="0" HeightRequest="250"></Image>
+            <Image Source="dotnet_bot.png" Grid.Row="1" Grid.Column="1" HeightRequest="250"></Image>
+            <Image Source="obraz.jpg" Grid.Row="1" Grid.Column="2" HeightRequest="250"></Image>
+        </Grid>
     </StackLayout>
 </ContentPage>
