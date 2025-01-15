@@ -93,7 +93,7 @@ namespace Desktop {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Desktop;component/usercontrol2.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Desktop;V1.0.0.0;component/usercontrol2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\UserControl2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

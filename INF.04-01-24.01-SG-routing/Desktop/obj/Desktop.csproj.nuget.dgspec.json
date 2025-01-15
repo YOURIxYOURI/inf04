@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\Desktop.csproj": {}
+    "D:\\inf04\\INF.04-01-24.01-SG-routing\\Desktop\\Desktop.csproj": {}
   },
   "projects": {
-    "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\Desktop.csproj": {
+    "D:\\inf04\\INF.04-01-24.01-SG-routing\\Desktop\\Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\Desktop.csproj",
+        "projectUniqueName": "D:\\inf04\\INF.04-01-24.01-SG-routing\\Desktop\\Desktop.csproj",
         "projectName": "Desktop",
-        "projectPath": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\Desktop.csproj",
+        "projectPath": "D:\\inf04\\INF.04-01-24.01-SG-routing\\Desktop\\Desktop.csproj",
         "packagesPath": "C:\\Users\\barte\\.nuget\\packages\\",
-        "outputPath": "D:\\inf04\\INF.04-01-24.01-SG\\Desktop\\obj\\",
+        "outputPath": "D:\\inf04\\INF.04-01-24.01-SG-routing\\Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

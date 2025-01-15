@@ -16,9 +16,20 @@ namespace api_tests.Controllers
 
         //with database get all
         [HttpGet]
-        public List<data> GetAllDataDB(int index)
+        public List<data> GetAllDataDB()
         {
-            return _context.datas.ToList();
+            return _context.Datas.ToList();
+        }
+        [HttpPost]
+        public ActionResult<data> PostData([FromBody] data data)
+        {
+            if (data != null)
+            {
+                _context.Datas.Add(data);
+            }
+            _context.SaveChanges();
+
+            return Ok(data);
         }
 
 

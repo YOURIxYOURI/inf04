@@ -11,6 +11,7 @@ namespace wpf_all
     public partial class MainPage : UserControl
     {
         ObservableCollection<string> jobsList = new ObservableCollection<string> { "Job 1", "Job 2", "Job 3" };
+
         Window window;
         ContentControl contentControl;
         Employe employe { get; set; } = new Employe();
@@ -21,6 +22,7 @@ namespace wpf_all
             jobComboBox.ItemsSource = jobsList;
             window.Title = "Home set from C#";
             this.window = window;
+            jobListView.ItemsSource = jobsList;
         }
 
         private void Button_Click(object sender, System.Windows.RoutedEventArgs e)
@@ -47,6 +49,7 @@ namespace wpf_all
             employe = new Employe(nameEntry.Text.ToString(), (int)ageSlider.Value, jobComboBox.SelectedItem.ToString(), datePicker.SelectedDate.ToString(), sexString);
 
             contentControl.Content = new DetailsPage(contentControl, window, employe);
+
         }
     }
 }

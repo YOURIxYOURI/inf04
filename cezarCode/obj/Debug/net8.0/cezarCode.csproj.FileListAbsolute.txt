@@ -1,0 +1,15 @@
+D:\inf04\cezarCode\bin\Debug\net8.0\cezarCode.exe
+D:\inf04\cezarCode\bin\Debug\net8.0\cezarCode.deps.json
+D:\inf04\cezarCode\bin\Debug\net8.0\cezarCode.runtimeconfig.json
+D:\inf04\cezarCode\bin\Debug\net8.0\cezarCode.dll
+D:\inf04\cezarCode\bin\Debug\net8.0\cezarCode.pdb
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.AssemblyInfoInputs.cache
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.AssemblyInfo.cs
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.csproj.CoreCompileInputs.cache
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.sourcelink.json
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.dll
+D:\inf04\cezarCode\obj\Debug\net8.0\refint\cezarCode.dll
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.pdb
+D:\inf04\cezarCode\obj\Debug\net8.0\cezarCode.genruntimeconfig.cache
+D:\inf04\cezarCode\obj\Debug\net8.0\ref\cezarCode.dll

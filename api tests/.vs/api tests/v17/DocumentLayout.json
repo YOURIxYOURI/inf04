@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\api tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:api tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,28 @@
       "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\inf04\\api tests\\Migrations\\20250115224959_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250115224959_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\api tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:api tests.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\inf04\\api tests\\Migrations\\20250115224913_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250115224913_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\inf04\\api tests\\Migrations\\20250115224833_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250115224833_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FCBCBD7-290F-4A08-9783-586BEB8307F5}|api tests.csproj|d:\\inf04\\api tests\\api tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,11 +50,50 @@
       "DocumentGroups": [
         {
           "DockedHeight": 149,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "20250115224959_mig1.cs",
+              "DocumentMoniker": "D:\\inf04\\api tests\\Migrations\\20250115224959_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250115224959_mig1.cs",
+              "ToolTip": "D:\\inf04\\api tests\\Migrations\\20250115224959_mig1.cs",
+              "RelativeToolTip": "Migrations\\20250115224959_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:49:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250115224913_mig1.cs",
+              "DocumentMoniker": "D:\\inf04\\api tests\\Migrations\\20250115224913_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250115224913_mig1.cs",
+              "ToolTip": "D:\\inf04\\api tests\\Migrations\\20250115224913_mig1.cs",
+              "RelativeToolTip": "Migrations\\20250115224913_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:49:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250115224833_mig1.cs",
+              "DocumentMoniker": "D:\\inf04\\api tests\\Migrations\\20250115224833_mig1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250115224833_mig1.cs",
+              "ToolTip": "D:\\inf04\\api tests\\Migrations\\20250115224833_mig1.cs",
+              "RelativeToolTip": "Migrations\\20250115224833_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:48:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "api tests.http",
               "DocumentMoniker": "D:\\inf04\\api tests\\api tests.http",
               "RelativeDocumentMoniker": "api tests.http",
@@ -55,46 +106,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "data.cs",
               "DocumentMoniker": "D:\\inf04\\api tests\\data.cs",
               "RelativeDocumentMoniker": "data.cs",
               "ToolTip": "D:\\inf04\\api tests\\data.cs",
               "RelativeToolTip": "data.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T20:19:28.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\inf04\\api tests\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AppDbContext.cs",
               "ToolTip": "D:\\inf04\\api tests\\AppDbContext.cs",
               "RelativeToolTip": "AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T13:10:45.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\inf04\\api tests\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\inf04\\api tests\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-09T23:29:15.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "api tests.csproj",
               "DocumentMoniker": "D:\\inf04\\api tests\\api tests.csproj",
               "RelativeDocumentMoniker": "api tests.csproj",
@@ -112,20 +163,20 @@
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "D:\\inf04\\api tests\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:51:59.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\inf04\\api tests\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\inf04\\api tests\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:50:49.431Z",
               "EditorCaption": ""

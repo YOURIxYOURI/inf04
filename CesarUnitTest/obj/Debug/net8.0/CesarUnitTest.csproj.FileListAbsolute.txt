@@ -1,0 +1,6 @@
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.csproj.AssemblyReference.cache
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.AssemblyInfoInputs.cache
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.AssemblyInfo.cs
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.csproj.CoreCompileInputs.cache
+D:\inf04\CesarUnitTest\obj\Debug\net8.0\CesarUnitTest.sourcelink.json

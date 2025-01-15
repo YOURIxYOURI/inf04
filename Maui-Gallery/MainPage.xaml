@@ -5,10 +5,10 @@
 
     <Grid BackgroundColor="ForestGreen" x:Name="appGrid" ColumnSpacing="20" RowSpacing="20">
         <Grid.RowDefinitions>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
-            <RowDefinition Height="100*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"></ColumnDefinition>
@@ -20,15 +20,12 @@
         <StackLayout Grid.ColumnSpan="2" Grid.Row="0">
             <Label Text="Galeria" FontSize="Header"></Label>
         </StackLayout>
-        <HorizontalStackLayout Grid.Row="1" Grid.ColumnSpan="3" >
-                <Image x:Name="leftImage" Grid.Column="0" Source="obraz1.png" HeightRequest="300"></Image>
-                <Image x:Name="middleImage" Grid.Column="1" Source="obraz2.png" HeightRequest="300"></Image>
-                <Image x:Name="RigthImage" Grid.Column="2" Source="obraz3.png" HeightRequest="300"></Image>
-            </HorizontalStackLayout>
-        <HorizontalStackLayout Grid.Row="2" Grid.ColumnSpan="2">
-            <Button Text="&lt;&lt;--" Clicked="left_Button_Clicked" Grid.ColumnSpan="2"></Button>
-            <Button Text="-->>" Clicked="rigth_Button_Clicked" Grid.ColumnSpan="2"></Button>
-        </HorizontalStackLayout >
+
+        <Image x:Name="leftImage" Grid.Column="0" Grid.Row="1" Source="obraz1.png" HeightRequest="250"></Image>
+        <Image x:Name="middleImage" Grid.Column="1" Grid.Row="1" Source="obraz2.png" HeightRequest="250"></Image>
+        <Image x:Name="RigthImage" Grid.Column="2" Grid.Row="1" Source="obraz3.png" HeightRequest="250"></Image>
+        <Button Text="&lt;&lt;--" Clicked="left_Button_Clicked" Grid.Column="0" Grid.Row="2" HeightRequest="30"></Button>
+        <Button Text="-->>" Clicked="rigth_Button_Clicked" Grid.Column="2" Grid.Row="2" HeightRequest="30"></Button>
         <StackLayout Grid.ColumnSpan="2" Grid.Row="3">
             <HorizontalStackLayout>
                 <Label Text="Przełącz żeby zmienic tło"></Label>

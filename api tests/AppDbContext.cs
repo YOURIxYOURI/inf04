@@ -8,22 +8,17 @@ namespace api_tests
     /// </summary>
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options, IConfiguration configuration)
-        : base(options) { _configuration = configuration; }
-        public IConfiguration _configuration { get; }
 
-        public DbSet<data> datas { get; set; }
-
-        public void ConfigureServices(IServiceCollection services)
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
         {
-            services.AddDbContext<AppDbContext>(options =>
-                options.UseMySql(_configuration.GetConnectionString("MySqlConnection"), ServerVersion.AutoDetect(_configuration.GetConnectionString("MySqlConnection"))));
-            services.AddDbContext<AppDbContext>();
-
         }
+
+        public DbSet<data> Datas { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
         }
+
     }
 }
